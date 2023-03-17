@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #cacaca;
+}
+
+button {
+  padding: 15px;
+  background-color: red;
+  margin: auto;
+  margin-top: 300px;
+  display: block;
+  position: relative;
+}
+
+.popover {
+  position: absolute;
+  visibility: hidden;
+
+  box-sizing: border-box;
+
+  background-color: #fff;
+}
+.popover-visible {
+  visibility: visible;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
