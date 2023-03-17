@@ -1,5 +1,5 @@
-import "./css/style.css";
+// import "./css/style.css";
 
-import Widget from "./js/widget";
+// import Widget from "./js/widget";
 
-const app = new Widget();
+// const app = new Widget();
